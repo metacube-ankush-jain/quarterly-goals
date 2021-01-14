@@ -1,0 +1,25 @@
+.activeComment {
+    width: 90%;
+    margin: 16px 16px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    display: inline-block;
+    min-height: 90%;
+    box-sizing: border-box;
+}
+
+.title {
+    display: block;
+    font-size: 16pt;
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+
+.description {
+    display: block;
+    font-size: 16pt;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,29 @@
+.blogPost {
+    width: 250px;
+    margin: 16px 16px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+}
+
+.avatar {
+    width: 25px;
+    height: 25px;
+    border-radius: 25px;
+    float: left;
+    margin-right: 10px;
+}
+
+.title {
+    width: 200px;
+    display: block;
+    font-size: 9pt;
+    margin-left: 10px;
+}
+
+.description {
+    width: 200px;
+    display: block;
+    font-size: 7pt;
+    margin-left: 10px;
+}
