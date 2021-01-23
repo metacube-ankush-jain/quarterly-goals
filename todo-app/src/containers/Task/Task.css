@@ -1,0 +1,23 @@
+.Task ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.Task li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.Task a {
+    text-decoration: none;
+    color: black;
+}
+
+.Task a:hover,
+.Task a:active,
+.Task a.active {
+    color: #fa923f;
+}
